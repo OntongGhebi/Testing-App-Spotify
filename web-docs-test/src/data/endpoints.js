@@ -4,7 +4,7 @@ import sevArtImage from "../assets/several-artist-api.png";
 import newRelease from "../assets/new-release.png";
 import userSaveAlbums from "../assets/users-saved-albums.png";
 import getAlbums from "../assets/get-album.png";
-import checkUserSavedAlbums from "../assets/check-user-saved-Albums.png";
+import checkUserSavedAlbums from "../assets/check-user-saved-albums.png";
 import svAlbumsForCurUser from "../assets/saved-albums-for-current-user.png";
 import removeUserSvAlbums from "../assets/remove-user-saved-albums.png";
 import createPlaylist from "../assets/create-playlist.png";
